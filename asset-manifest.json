@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Premest-Assignment1/static/css/main.15fa3a15.chunk.css",
+    "main.js": "/Premest-Assignment1/static/js/main.93824da1.chunk.js",
+    "main.js.map": "/Premest-Assignment1/static/js/main.93824da1.chunk.js.map",
+    "runtime-main.js": "/Premest-Assignment1/static/js/runtime-main.7f13fb94.js",
+    "runtime-main.js.map": "/Premest-Assignment1/static/js/runtime-main.7f13fb94.js.map",
+    "static/js/2.180bcab9.chunk.js": "/Premest-Assignment1/static/js/2.180bcab9.chunk.js",
+    "static/js/2.180bcab9.chunk.js.map": "/Premest-Assignment1/static/js/2.180bcab9.chunk.js.map",
+    "index.html": "/Premest-Assignment1/index.html",
+    "precache-manifest.8533a7d4addf30a5682bfed87c97b1ac.js": "/Premest-Assignment1/precache-manifest.8533a7d4addf30a5682bfed87c97b1ac.js",
+    "service-worker.js": "/Premest-Assignment1/service-worker.js",
+    "static/css/main.15fa3a15.chunk.css.map": "/Premest-Assignment1/static/css/main.15fa3a15.chunk.css.map",
+    "static/js/2.180bcab9.chunk.js.LICENSE.txt": "/Premest-Assignment1/static/js/2.180bcab9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Premest-Assignment1/static/media/image1.ba7f2db4.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f13fb94.js",
+    "static/js/2.180bcab9.chunk.js",
+    "static/css/main.15fa3a15.chunk.css",
+    "static/js/main.93824da1.chunk.js"
+  ]
+}
