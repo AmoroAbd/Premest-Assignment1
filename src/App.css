@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  width: 100vw;
+  overflow: hidden;
+}
+p {
+  padding: 10px 50px;
+}
+
+#header {
+  height: 60vh;
+  background-image: url("./images/image1.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#header .menu {
+  background-color: #282c34;
+  width: 100vw;
+  min-height: 50px;
+  color: #ffffff;
+  padding: 20px;
+  overflow: hidden;
+}
+
+#header .menu h1 {
+  padding: 10px;
+}
+
+.navigation {
+  display: inline;
+  height: 100%;
+  padding: 20px;
+  text-transform: uppercase;
+}
+.navigation .navbar ul li {
+  float: left;
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0 10px;
+}
+.navigation #branding {
+  float: left;
+  cursor: pointer;
+}
+.navigation .navbar {
+  float: right;
+  padding-right: 50px;
+}
+
+.navigation .navbar ul li:hover {
+  color: #282c34;
+  background-color: #ffffff;
+}
+
+.navigation .navbar ul li {
+  cursor: pointer;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.navigation a:hover {
+  color: #282c34;
+}
+
+.content {
+  min-height: 40vh;
+  background-color: #eeeeee;
+}
+
+.content h1 {
+  text-align: center;
+  color: rgba(0, 255, 0, 0.8);
+}
+.content h4 {
+  text-align: center;
+}
+
+#about {
+  height: 200px;
+  padding: 20px;
+  background-color: #282c34;
+  color: #eeeeee;
+}
+
+#about h2 {
+  text-align: center;
+}
+
+#about h4 {
+  text-align: center;
+}
+.banner {
+  height: 300px;
+  background-image: url("./images/letswrite.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+#services {
+  height: 200px;
+  padding: 20px;
+}
+
+#services h2 {
+  text-align: center;
+}
+
+#services h4 {
+  text-align: center;
+}
+
+#contact {
+  height: 100px;
+  text-align: center;
+  padding: 20px;
+  background-color: #eeeeee;
+}
+#contact h2 {
+  text-align: center;
+}
+
+#contact h4 {
+  text-align: center;
+}
+
+#belt {
+  min-height: 100px;
+  background-image: url("./images/belt.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+}
+
+#footer {
+  text-align: center;
+  height: 150px;
+  background-color: #28292b;
+  color: #ffffff;
+  padding: 50px;
+}
+
+#footer ul {
+  list-style-type: none;
+  text-align: left;
+}
+
+#footer .quick-links {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.copy {
+  height: 100px;
+  background-color: rgba(71, 75, 80, 0.5);
+  text-align: center;
+}
