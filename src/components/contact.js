@@ -1,4 +1,5 @@
 import React from "react";
+import Table from "./table";
 
 function Contact(props) {
   return (
@@ -14,6 +15,7 @@ function Contact(props) {
           vero dolore consectetur laudantium minima ullam. Tempora fuga soluta
           ut autem.
         </p>
+        <Table />
       </div>
     </div>
   );
