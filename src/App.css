@@ -137,7 +137,15 @@ p {
 }
 
 table {
-  width: 100%;
+  width: 90%;
+  margin: auto;
+}
+table th {
+  padding: 10px;
+}
+table td {
+  text-align: left;
+  padding: 10px;
 }
 
 #belt {
